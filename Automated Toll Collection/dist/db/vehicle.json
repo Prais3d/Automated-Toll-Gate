@@ -1,0 +1,27 @@
+[
+	{
+		"vehicle":
+		{
+			"Name": "John",
+			"TagId": "E2 DC 09 2E",
+			"Account_num": "123456",
+			"Phone": "01711111111",
+			"Address": "66,Mohakhali",
+			"Number_plate": "Dhaka-Metro Ga-171315",
+			"Balance": "1000"
+		}
+	},
+
+	{
+		"vehicle":
+		{
+			"Name": "Jonny",
+			"TagId": "82 BD 31 1C",
+			"Account_num": "123457",
+			"Phone": "01811111111",
+			"Address": "66,Mohakhali",
+			"Number_plate": "Dhaka-Metro Ga-171314",
+			"Balance": "1500"
+		}
+	}
+]
